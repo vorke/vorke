@@ -1,0 +1,1 @@
+add_executable(vorke WIN32 main.cpp)
